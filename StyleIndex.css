@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(207, 172, 240);
+
+}
+
+p{
+    color: blue;
+}
+
+table{
+    width: 450;
+    border: 9px solid black;
+    border-radius: 9px;
+    border-width: 3px;
+    border-color: black;
+    border-collapse: collapse;
+
+}
+
+form{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+button{
+    border-radius: 7px;
+    background-color: rgb(106, 15, 190);
+}
